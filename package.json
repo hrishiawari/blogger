@@ -1,0 +1,29 @@
+{
+  "name": "blog",
+  "version": "1.0.0",
+  "description": "meanstack App",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hrishiawari/blogger.git"
+  },
+  "keywords": [
+    "mean",
+    "stack"
+  ],
+  "author": "hrishiawari",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hrishiawari/blogger/issues"
+  },
+  "homepage": "https://github.com/hrishiawari/blogger#readme",
+  "dependencies": {
+    "bcrypt-nodejs": "0.0.3",
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "mongoose": "^5.3.15"
+  }
+}
